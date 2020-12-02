@@ -1,0 +1,17 @@
+.img-featured img{
+    width: 80%;
+    height: 400px;
+}
+
+.img-hemosphere img{
+    width: 80%;
+    height: 400px;
+}
+
+tr {
+    text-align: center !important;
+}
+
+.center{
+    text-align: center !important;
+}
