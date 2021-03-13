@@ -6,5 +6,5 @@ Ensure you have the used in the py files installed in your environment. Then in 
 
 ### Visual Example:
 
-![](images/MarsScrapingExample.png)
+![](images/FrontEndMarsScrapingExample.png)
 
